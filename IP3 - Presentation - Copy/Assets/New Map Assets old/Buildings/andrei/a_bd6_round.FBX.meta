@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 99056fc3d5a3fae42beb608f94faf27a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: a_bd6_round_bottom_group
+    100004: a_bd6_round_bottom_Part_1
+    100006: a_bd6_round_bottom_Part_2
+    100008: a_bd6_round_bottom_Part_3
+    100010: a_bd6_round_bottom_Part_4
+    100012: a_bd6_round_bottom_Part_5
+    100014: a_bd6_round_top_group
+    100016: a_bd6_round_top_Part_1
+    100018: a_bd6_round_top_Part_10
+    100020: a_bd6_round_top_Part_11
+    100022: a_bd6_round_top_Part_12
+    100024: a_bd6_round_top_Part_13
+    100026: a_bd6_round_top_Part_14
+    100028: a_bd6_round_top_Part_15
+    100030: a_bd6_round_top_Part_2
+    100032: a_bd6_round_top_Part_3
+    100034: a_bd6_round_top_Part_4
+    100036: a_bd6_round_top_Part_5
+    100038: a_bd6_round_top_Part_6
+    100040: a_bd6_round_top_Part_7
+    100042: a_bd6_round_top_Part_8
+    100044: a_bd6_round_top_Part_9
+    400000: //RootNode
+    400002: a_bd6_round_bottom_group
+    400004: a_bd6_round_bottom_Part_1
+    400006: a_bd6_round_bottom_Part_2
+    400008: a_bd6_round_bottom_Part_3
+    400010: a_bd6_round_bottom_Part_4
+    400012: a_bd6_round_bottom_Part_5
+    400014: a_bd6_round_top_group
+    400016: a_bd6_round_top_Part_1
+    400018: a_bd6_round_top_Part_10
+    400020: a_bd6_round_top_Part_11
+    400022: a_bd6_round_top_Part_12
+    400024: a_bd6_round_top_Part_13
+    400026: a_bd6_round_top_Part_14
+    400028: a_bd6_round_top_Part_15
+    400030: a_bd6_round_top_Part_2
+    400032: a_bd6_round_top_Part_3
+    400034: a_bd6_round_top_Part_4
+    400036: a_bd6_round_top_Part_5
+    400038: a_bd6_round_top_Part_6
+    400040: a_bd6_round_top_Part_7
+    400042: a_bd6_round_top_Part_8
+    400044: a_bd6_round_top_Part_9
+    2100000: round_round_round_aiStandard1
+    2300000: a_bd6_round_bottom_Part_1
+    2300002: a_bd6_round_bottom_Part_2
+    2300004: a_bd6_round_bottom_Part_3
+    2300006: a_bd6_round_bottom_Part_4
+    2300008: a_bd6_round_bottom_Part_5
+    2300010: a_bd6_round_top_Part_1
+    2300012: a_bd6_round_top_Part_10
+    2300014: a_bd6_round_top_Part_11
+    2300016: a_bd6_round_top_Part_12
+    2300018: a_bd6_round_top_Part_13
+    2300020: a_bd6_round_top_Part_14
+    2300022: a_bd6_round_top_Part_15
+    2300024: a_bd6_round_top_Part_2
+    2300026: a_bd6_round_top_Part_3
+    2300028: a_bd6_round_top_Part_4
+    2300030: a_bd6_round_top_Part_5
+    2300032: a_bd6_round_top_Part_6
+    2300034: a_bd6_round_top_Part_7
+    2300036: a_bd6_round_top_Part_8
+    2300038: a_bd6_round_top_Part_9
+    3300000: a_bd6_round_bottom_Part_1
+    3300002: a_bd6_round_bottom_Part_2
+    3300004: a_bd6_round_bottom_Part_3
+    3300006: a_bd6_round_bottom_Part_4
+    3300008: a_bd6_round_bottom_Part_5
+    3300010: a_bd6_round_top_Part_1
+    3300012: a_bd6_round_top_Part_10
+    3300014: a_bd6_round_top_Part_11
+    3300016: a_bd6_round_top_Part_12
+    3300018: a_bd6_round_top_Part_13
+    3300020: a_bd6_round_top_Part_14
+    3300022: a_bd6_round_top_Part_15
+    3300024: a_bd6_round_top_Part_2
+    3300026: a_bd6_round_top_Part_3
+    3300028: a_bd6_round_top_Part_4
+    3300030: a_bd6_round_top_Part_5
+    3300032: a_bd6_round_top_Part_6
+    3300034: a_bd6_round_top_Part_7
+    3300036: a_bd6_round_top_Part_8
+    3300038: a_bd6_round_top_Part_9
+    4300000: a_bd6_round_top_Part_13
+    4300002: a_bd6_round_top_Part_3
+    4300004: a_bd6_round_top_Part_14
+    4300006: a_bd6_round_top_Part_15
+    4300008: a_bd6_round_top_Part_1
+    4300010: a_bd6_round_top_Part_10
+    4300012: a_bd6_round_top_Part_4
+    4300014: a_bd6_round_top_Part_2
+    4300016: a_bd6_round_top_Part_11
+    4300018: a_bd6_round_top_Part_6
+    4300020: a_bd6_round_top_Part_8
+    4300022: a_bd6_round_top_Part_12
+    4300024: a_bd6_round_top_Part_5
+    4300026: a_bd6_round_top_Part_7
+    4300028: a_bd6_round_top_Part_9
+    4300030: a_bd6_round_bottom_Part_3
+    4300032: a_bd6_round_bottom_Part_2
+    4300034: a_bd6_round_bottom_Part_4
+    4300036: a_bd6_round_bottom_Part_1
+    4300038: a_bd6_round_bottom_Part_5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
