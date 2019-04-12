@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 00cda0930af8f5143b4388ca95e8eb1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chest_JNT
+    100002: Head_Jnt_01
+    100004: Head_Jnt_02
+    100006: Head_Jnt_03
+    100008: L_BigClaw_JNT_01
+    100010: L_BigClaw_JNT_02
+    100012: L_Clavicle_JNT
+    100014: L_Elbow_JNT
+    100016: L_Front_Leg_JNT_01
+    100018: L_Front_Leg_JNT_02
+    100020: L_Front_Leg_JNT_03
+    100022: L_Front_Leg_JNT_04
+    100024: L_Hind_Leg_JNT_01
+    100026: L_Hind_Leg_JNT_02
+    100028: L_Hind_Leg_JNT_03
+    100030: L_Hind_Leg_JNT_04
+    100032: L_Legs_JNT
+    100034: L_Middle_Leg_JNT_01
+    100036: L_Middle_Leg_JNT_02
+    100038: L_Middle_Leg_JNT_03
+    100040: L_Middle_Leg_JNT_04
+    100042: L_Shoulder_JNT
+    100044: L_SmallClaw_JNT_01
+    100046: L_SmallClaw_JNT_02
+    100048: L_Wrist_JNT
+    100050: //RootNode
+    100052: Lobster_Root_JNT
+    100054: polySurface3
+    100056: R_BigClaw_JNT_01
+    100058: R_BigClaw_JNT_02
+    100060: R_Clavicle_JNT
+    100062: R_Elbow_JNT
+    100064: R_Front_Leg_JNT_01
+    100066: R_Front_Leg_JNT_02
+    100068: R_Front_Leg_JNT_02 1
+    100070: R_Front_Leg_JNT_03
+    100072: R_Front_Leg_JNT_03 1
+    100074: R_Front_Leg_JNT_04
+    100076: R_Front_Leg_JNT_04 1
+    100078: R_Hind_Leg_JNT_01
+    100080: R_Hind_Leg_JNT_02
+    100082: R_Hind_Leg_JNT_03
+    100084: R_Hind_Leg_JNT_04
+    100086: R_Legs_JNT
+    100088: R_Middle_Leg_JNT_01
+    100090: R_Shoulder_JNT
+    100092: R_SmallClaw_JNT_01
+    100094: R_SmallClaw_JNT_02
+    100096: R_Wrist_JNT
+    100098: Spine_JNT_01
+    100100: Spine_JNT_02
+    100102: Spine_JNT_03
+    100104: Tail_JNT_01
+    100106: Tail_JNT_02
+    100108: Tail_JNT_03
+    100110: Tail_JNT_04
+    400000: Chest_JNT
+    400002: Head_Jnt_01
+    400004: Head_Jnt_02
+    400006: Head_Jnt_03
+    400008: L_BigClaw_JNT_01
+    400010: L_BigClaw_JNT_02
+    400012: L_Clavicle_JNT
+    400014: L_Elbow_JNT
+    400016: L_Front_Leg_JNT_01
+    400018: L_Front_Leg_JNT_02
+    400020: L_Front_Leg_JNT_03
+    400022: L_Front_Leg_JNT_04
+    400024: L_Hind_Leg_JNT_01
+    400026: L_Hind_Leg_JNT_02
+    400028: L_Hind_Leg_JNT_03
+    400030: L_Hind_Leg_JNT_04
+    400032: L_Legs_JNT
+    400034: L_Middle_Leg_JNT_01
+    400036: L_Middle_Leg_JNT_02
+    400038: L_Middle_Leg_JNT_03
+    400040: L_Middle_Leg_JNT_04
+    400042: L_Shoulder_JNT
+    400044: L_SmallClaw_JNT_01
+    400046: L_SmallClaw_JNT_02
+    400048: L_Wrist_JNT
+    400050: //RootNode
+    400052: Lobster_Root_JNT
+    400054: polySurface3
+    400056: R_BigClaw_JNT_01
+    400058: R_BigClaw_JNT_02
+    400060: R_Clavicle_JNT
+    400062: R_Elbow_JNT
+    400064: R_Front_Leg_JNT_01
+    400066: R_Front_Leg_JNT_02
+    400068: R_Front_Leg_JNT_02 1
+    400070: R_Front_Leg_JNT_03
+    400072: R_Front_Leg_JNT_03 1
+    400074: R_Front_Leg_JNT_04
+    400076: R_Front_Leg_JNT_04 1
+    400078: R_Hind_Leg_JNT_01
+    400080: R_Hind_Leg_JNT_02
+    400082: R_Hind_Leg_JNT_03
+    400084: R_Hind_Leg_JNT_04
+    400086: R_Legs_JNT
+    400088: R_Middle_Leg_JNT_01
+    400090: R_Shoulder_JNT
+    400092: R_SmallClaw_JNT_01
+    400094: R_SmallClaw_JNT_02
+    400096: R_Wrist_JNT
+    400098: Spine_JNT_01
+    400100: Spine_JNT_02
+    400102: Spine_JNT_03
+    400104: Tail_JNT_01
+    400106: Tail_JNT_02
+    400108: Tail_JNT_03
+    400110: Tail_JNT_04
+    2100000: lambert2
+    4300000: polySurface3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

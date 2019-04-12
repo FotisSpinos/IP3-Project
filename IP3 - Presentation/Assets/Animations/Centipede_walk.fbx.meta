@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: ad799b86367177a44a81223882c27567
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arms
+    100002: body1
+    100004: Cent_COG_Ctrl
+    100006: Cent_Head_Ctrl
+    100008: centipede_NEW2:Centipede
+    100010: //RootNode
+    100012: COG
+    100014: COG 1
+    100016: Controls
+    100018: Curl_Ctrl
+    100020: Def_Skel
+    100022: Do_Not_Touch
+    100024: Head
+    100026: Head 1
+    100028: Head 2
+    100030: Head_grp
+    100032: ikHandle1
+    100034: ikHandle10
+    100036: ikHandle11
+    100038: ikHandle12
+    100040: ikHandle13
+    100042: ikHandle14
+    100044: ikHandle15
+    100046: ikHandle16
+    100048: ikHandle17
+    100050: ikHandle18
+    100052: ikHandle2
+    100054: ikHandle3
+    100056: ikHandle4
+    100058: ikHandle5
+    100060: ikHandle6
+    100062: ikHandle7
+    100064: ikHandle8
+    100066: ikHandle9
+    100068: Int_Skel
+    100070: joint16
+    100072: joint16 1
+    100074: joint17
+    100076: joint17 1
+    100078: joint18
+    100080: joint18 1
+    100082: joint20
+    100084: joint20 1
+    100086: joint21
+    100088: joint21 1
+    100090: joint22
+    100092: joint22 1
+    100094: joint24
+    100096: joint24 1
+    100098: joint25
+    100100: joint25 1
+    100102: joint26
+    100104: joint26 1
+    100106: joint28
+    100108: joint28 1
+    100110: joint29
+    100112: joint29 1
+    100114: joint30
+    100116: joint30 1
+    100118: joint32
+    100120: joint32 1
+    100122: joint33
+    100124: joint33 1
+    100126: joint34
+    100128: joint34 1
+    100130: joint36
+    100132: joint36 1
+    100134: joint37
+    100136: joint37 1
+    100138: joint38
+    100140: joint38 1
+    100142: joint40
+    100144: joint40 1
+    100146: joint41
+    100148: joint41 1
+    100150: joint42
+    100152: joint42 1
+    100154: joint44
+    100156: joint44 1
+    100158: joint45
+    100160: joint45 1
+    100162: joint46
+    100164: joint46 1
+    100166: joint48
+    100168: joint48 1
+    100170: joint49
+    100172: joint49 1
+    100174: joint50
+    100176: joint50 1
+    100178: joint52
+    100180: joint52 1
+    100182: joint53
+    100184: joint53 1
+    100186: joint54
+    100188: joint54 1
+    100190: joint56
+    100192: joint56 1
+    100194: joint57
+    100196: joint57 1
+    100198: joint58
+    100200: joint58 1
+    100202: joint60
+    100204: joint60 1
+    100206: joint61
+    100208: joint61 1
+    100210: joint62
+    100212: joint62 1
+    100214: joint64
+    100216: joint64 1
+    100218: joint65
+    100220: joint65 1
+    100222: joint66
+    100224: joint66 1
+    100226: joint68
+    100228: joint68 1
+    100230: joint69
+    100232: joint69 1
+    100234: joint70
+    100236: joint70 1
+    100238: joint72
+    100240: joint72 1
+    100242: joint73
+    100244: joint73 1
+    100246: joint74
+    100248: joint74 1
+    100250: joint76
+    100252: joint76 1
+    100254: joint77
+    100256: joint77 1
+    100258: joint78
+    100260: joint78 1
+    100262: joint79
+    100264: joint79 1
+    100266: joint80
+    100268: joint80 1
+    100270: joint81
+    100272: joint81 1
+    100274: joint82
+    100276: joint82 1
+    100278: joint83
+    100280: joint83 1
+    100282: joint84
+    100284: joint84 1
+    100286: joint85
+    100288: joint85 1
+    100290: joint86
+    100292: joint86 1
+    100294: joint87
+    100296: joint87 1
+    100298: joint88
+    100300: joint88 1
+    100302: joint89
+    100304: joint89 1
+    100306: joint90
+    100308: joint90 1
+    100310: joint91
+    100312: left1
+    100314: LF_AllArms_Ctrl
+    100316: LF_AllLegs_Ctrl
+    100318: LF_Arm_1_Ctrl
+    100320: LF_Arm_2_Ctrl
+    100322: LF_Arm_3_Ctrl
+    100324: LF_Arm_4_Ctrl
+    100326: LF_Arm_5_Ctrl
+    100328: LF_LowerLeg_1
+    100330: LF_LowerLeg_1 1
+    100332: LF_LowerLeg_2
+    100334: LF_LowerLeg_2 1
+    100336: LF_LowerLeg_3
+    100338: LF_LowerLeg_3 1
+    100340: LF_Pincer_Ctrl
+    100342: LF_UpperLeg_1
+    100344: LF_UpperLeg_1 1
+    100346: LF_UpperLeg_2
+    100348: LF_UpperLeg_2 1
+    100350: LF_UpperLeg_3
+    100352: LF_UpperLeg_3 1
+    100354: LF_UpperLeg_4
+    100356: LF_UpperLeg_4 1
+    100358: LF_UpperLeg_5
+    100360: LF_UpperLeg_5 1
+    100362: LF_WLeg_1_Ctrl
+    100364: LF_WLeg_2_Ctrl
+    100366: LF_WLeg_3_Ctrl
+    100368: LowerBack_0
+    100370: LowerBack_0_grp
+    100372: LowerBack_1
+    100374: LowerBack_1 1
+    100376: LowerBack_1 2
+    100378: LowerBack_1 3
+    100380: LowerBack_1_grp
+    100382: LowerBack_2
+    100384: LowerBack_2 1
+    100386: LowerBack_2_grp
+    100388: LowerBack_3
+    100390: LowerBack_3 1
+    100392: LowerBack_3_grp
+    100394: LowerBack_4_grp
+    100396: Mouth
+    100398: Mouth 1
+    100400: pCube48a
+    100402: polySurface50a
+    100404: polySurface52a
+    100406: polySurface53a
+    100408: polySurface55a
+    100410: polySurface60a
+    100412: polySurface67a
+    100414: polySurface68a
+    100416: polySurface69a
+    100418: polySurface70a
+    100420: polySurface71a
+    100422: polySurface72a
+    100424: polySurface73a
+    100426: polySurface75a
+    100428: polySurface76a
+    100430: polySurface77a
+    100432: polySurface78a
+    100434: polySurface79a
+    100436: polySurface80a
+    100438: polySurface81a
+    100440: polySurface82a
+    100442: polySurface83a
+    100444: polySurface84
+    100446: polySurface85
+    100448: polySurface86
+    100450: polySurface87
+    100452: polySurface88a
+    100454: polySurface89a
+    100456: polySurface90a
+    100458: polySurface91a
+    100460: right1
+    100462: RT_AllArms_Ctrl
+    100464: RT_AllLegs_Ctrl
+    100466: RT_Arm_1_Ctrl
+    100468: RT_Arm_2_Ctrl
+    100470: RT_Arm_3_Ctrl
+    100472: RT_Arm_4_Ctrl
+    100474: RT_Arm_5_Ctrl
+    100476: RT_LowerLeg_1
+    100478: RT_LowerLeg_1 1
+    100480: RT_LowerLeg_2
+    100482: RT_LowerLeg_2 1
+    100484: RT_LowerLeg_3
+    100486: RT_LowerLeg_3 1
+    100488: RT_Pincer_Ctrl
+    100490: RT_UpperLeg_1
+    100492: RT_UpperLeg_1 1
+    100494: RT_UpperLeg_2
+    100496: RT_UpperLeg_2 1
+    100498: RT_UpperLeg_3
+    100500: RT_UpperLeg_3 1
+    100502: RT_UpperLeg_4
+    100504: RT_UpperLeg_4 1
+    100506: RT_UpperLeg_5
+    100508: RT_UpperLeg_5 1
+    100510: RT_WLeg_1_Ctrl
+    100512: RT_WLeg_2_Ctrl
+    100514: RT_WLeg_3_Ctrl
+    100516: Spine_Hdl_Ctrl
+    100518: Tail
+    100520: tail
+    100522: tail 1
+    100524: Tail_Hdl_Ctrl
+    100526: UpperBack_1
+    100528: UpperBack_1 1
+    100530: UpperBack_1_grp
+    100532: UpperBack_2
+    100534: UpperBack_2 1
+    100536: UpperBack_2_grp
+    100538: UpperBack_3
+    100540: UpperBack_3 1
+    100542: UpperBack_3_grp
+    100544: UpperBack_4
+    100546: UpperBack_4 1
+    100548: UpperBack_4_grp
+    100550: UpperBack_5
+    100552: UpperBack_5 1
+    100554: UpperBack_5_grp
+    100556: UpperBack_6
+    100558: UpperBack_6 1
+    100560: UpperBack_6_grp
+    100562: WalkingLegs
+    400000: Arms
+    400002: body1
+    400004: Cent_COG_Ctrl
+    400006: Cent_Head_Ctrl
+    400008: centipede_NEW2:Centipede
+    400010: //RootNode
+    400012: COG
+    400014: COG 1
+    400016: Controls
+    400018: Curl_Ctrl
+    400020: Def_Skel
+    400022: Do_Not_Touch
+    400024: Head
+    400026: Head 1
+    400028: Head 2
+    400030: Head_grp
+    400032: ikHandle1
+    400034: ikHandle10
+    400036: ikHandle11
+    400038: ikHandle12
+    400040: ikHandle13
+    400042: ikHandle14
+    400044: ikHandle15
+    400046: ikHandle16
+    400048: ikHandle17
+    400050: ikHandle18
+    400052: ikHandle2
+    400054: ikHandle3
+    400056: ikHandle4
+    400058: ikHandle5
+    400060: ikHandle6
+    400062: ikHandle7
+    400064: ikHandle8
+    400066: ikHandle9
+    400068: Int_Skel
+    400070: joint16
+    400072: joint16 1
+    400074: joint17
+    400076: joint17 1
+    400078: joint18
+    400080: joint18 1
+    400082: joint20
+    400084: joint20 1
+    400086: joint21
+    400088: joint21 1
+    400090: joint22
+    400092: joint22 1
+    400094: joint24
+    400096: joint24 1
+    400098: joint25
+    400100: joint25 1
+    400102: joint26
+    400104: joint26 1
+    400106: joint28
+    400108: joint28 1
+    400110: joint29
+    400112: joint29 1
+    400114: joint30
+    400116: joint30 1
+    400118: joint32
+    400120: joint32 1
+    400122: joint33
+    400124: joint33 1
+    400126: joint34
+    400128: joint34 1
+    400130: joint36
+    400132: joint36 1
+    400134: joint37
+    400136: joint37 1
+    400138: joint38
+    400140: joint38 1
+    400142: joint40
+    400144: joint40 1
+    400146: joint41
+    400148: joint41 1
+    400150: joint42
+    400152: joint42 1
+    400154: joint44
+    400156: joint44 1
+    400158: joint45
+    400160: joint45 1
+    400162: joint46
+    400164: joint46 1
+    400166: joint48
+    400168: joint48 1
+    400170: joint49
+    400172: joint49 1
+    400174: joint50
+    400176: joint50 1
+    400178: joint52
+    400180: joint52 1
+    400182: joint53
+    400184: joint53 1
+    400186: joint54
+    400188: joint54 1
+    400190: joint56
+    400192: joint56 1
+    400194: joint57
+    400196: joint57 1
+    400198: joint58
+    400200: joint58 1
+    400202: joint60
+    400204: joint60 1
+    400206: joint61
+    400208: joint61 1
+    400210: joint62
+    400212: joint62 1
+    400214: joint64
+    400216: joint64 1
+    400218: joint65
+    400220: joint65 1
+    400222: joint66
+    400224: joint66 1
+    400226: joint68
+    400228: joint68 1
+    400230: joint69
+    400232: joint69 1
+    400234: joint70
+    400236: joint70 1
+    400238: joint72
+    400240: joint72 1
+    400242: joint73
+    400244: joint73 1
+    400246: joint74
+    400248: joint74 1
+    400250: joint76
+    400252: joint76 1
+    400254: joint77
+    400256: joint77 1
+    400258: joint78
+    400260: joint78 1
+    400262: joint79
+    400264: joint79 1
+    400266: joint80
+    400268: joint80 1
+    400270: joint81
+    400272: joint81 1
+    400274: joint82
+    400276: joint82 1
+    400278: joint83
+    400280: joint83 1
+    400282: joint84
+    400284: joint84 1
+    400286: joint85
+    400288: joint85 1
+    400290: joint86
+    400292: joint86 1
+    400294: joint87
+    400296: joint87 1
+    400298: joint88
+    400300: joint88 1
+    400302: joint89
+    400304: joint89 1
+    400306: joint90
+    400308: joint90 1
+    400310: joint91
+    400312: left1
+    400314: LF_AllArms_Ctrl
+    400316: LF_AllLegs_Ctrl
+    400318: LF_Arm_1_Ctrl
+    400320: LF_Arm_2_Ctrl
+    400322: LF_Arm_3_Ctrl
+    400324: LF_Arm_4_Ctrl
+    400326: LF_Arm_5_Ctrl
+    400328: LF_LowerLeg_1
+    400330: LF_LowerLeg_1 1
+    400332: LF_LowerLeg_2
+    400334: LF_LowerLeg_2 1
+    400336: LF_LowerLeg_3
+    400338: LF_LowerLeg_3 1
+    400340: LF_Pincer_Ctrl
+    400342: LF_UpperLeg_1
+    400344: LF_UpperLeg_1 1
+    400346: LF_UpperLeg_2
+    400348: LF_UpperLeg_2 1
+    400350: LF_UpperLeg_3
+    400352: LF_UpperLeg_3 1
+    400354: LF_UpperLeg_4
+    400356: LF_UpperLeg_4 1
+    400358: LF_UpperLeg_5
+    400360: LF_UpperLeg_5 1
+    400362: LF_WLeg_1_Ctrl
+    400364: LF_WLeg_2_Ctrl
+    400366: LF_WLeg_3_Ctrl
+    400368: LowerBack_0
+    400370: LowerBack_0_grp
+    400372: LowerBack_1
+    400374: LowerBack_1 1
+    400376: LowerBack_1 2
+    400378: LowerBack_1 3
+    400380: LowerBack_1_grp
+    400382: LowerBack_2
+    400384: LowerBack_2 1
+    400386: LowerBack_2_grp
+    400388: LowerBack_3
+    400390: LowerBack_3 1
+    400392: LowerBack_3_grp
+    400394: LowerBack_4_grp
+    400396: Mouth
+    400398: Mouth 1
+    400400: pCube48a
+    400402: polySurface50a
+    400404: polySurface52a
+    400406: polySurface53a
+    400408: polySurface55a
+    400410: polySurface60a
+    400412: polySurface67a
+    400414: polySurface68a
+    400416: polySurface69a
+    400418: polySurface70a
+    400420: polySurface71a
+    400422: polySurface72a
+    400424: polySurface73a
+    400426: polySurface75a
+    400428: polySurface76a
+    400430: polySurface77a
+    400432: polySurface78a
+    400434: polySurface79a
+    400436: polySurface80a
+    400438: polySurface81a
+    400440: polySurface82a
+    400442: polySurface83a
+    400444: polySurface84
+    400446: polySurface85
+    400448: polySurface86
+    400450: polySurface87
+    400452: polySurface88a
+    400454: polySurface89a
+    400456: polySurface90a
+    400458: polySurface91a
+    400460: right1
+    400462: RT_AllArms_Ctrl
+    400464: RT_AllLegs_Ctrl
+    400466: RT_Arm_1_Ctrl
+    400468: RT_Arm_2_Ctrl
+    400470: RT_Arm_3_Ctrl
+    400472: RT_Arm_4_Ctrl
+    400474: RT_Arm_5_Ctrl
+    400476: RT_LowerLeg_1
+    400478: RT_LowerLeg_1 1
+    400480: RT_LowerLeg_2
+    400482: RT_LowerLeg_2 1
+    400484: RT_LowerLeg_3
+    400486: RT_LowerLeg_3 1
+    400488: RT_Pincer_Ctrl
+    400490: RT_UpperLeg_1
+    400492: RT_UpperLeg_1 1
+    400494: RT_UpperLeg_2
+    400496: RT_UpperLeg_2 1
+    400498: RT_UpperLeg_3
+    400500: RT_UpperLeg_3 1
+    400502: RT_UpperLeg_4
+    400504: RT_UpperLeg_4 1
+    400506: RT_UpperLeg_5
+    400508: RT_UpperLeg_5 1
+    400510: RT_WLeg_1_Ctrl
+    400512: RT_WLeg_2_Ctrl
+    400514: RT_WLeg_3_Ctrl
+    400516: Spine_Hdl_Ctrl
+    400518: Tail
+    400520: tail
+    400522: tail 1
+    400524: Tail_Hdl_Ctrl
+    400526: UpperBack_1
+    400528: UpperBack_1 1
+    400530: UpperBack_1_grp
+    400532: UpperBack_2
+    400534: UpperBack_2 1
+    400536: UpperBack_2_grp
+    400538: UpperBack_3
+    400540: UpperBack_3 1
+    400542: UpperBack_3_grp
+    400544: UpperBack_4
+    400546: UpperBack_4 1
+    400548: UpperBack_4_grp
+    400550: UpperBack_5
+    400552: UpperBack_5 1
+    400554: UpperBack_5_grp
+    400556: UpperBack_6
+    400558: UpperBack_6 1
+    400560: UpperBack_6_grp
+    400562: WalkingLegs
+    2000000: left1
+    2000002: right1
+    2100000: Texture1
+    2100002: lambert7
+    2100004: lambert1
+    2300000: polySurface50a
+    2300002: polySurface52a
+    2300004: polySurface53a
+    2300006: polySurface55a
+    2300008: polySurface67a
+    2300010: polySurface68a
+    2300012: polySurface69a
+    2300014: polySurface70a
+    2300016: polySurface71a
+    2300018: polySurface72a
+    2300020: polySurface73a
+    2300022: polySurface75a
+    2300024: polySurface76a
+    2300026: polySurface77a
+    2300028: polySurface78a
+    2300030: polySurface79a
+    2300032: polySurface80a
+    2300034: polySurface81a
+    2300036: polySurface82a
+    2300038: polySurface83a
+    2300040: polySurface84
+    2300042: polySurface85
+    2300044: polySurface86
+    2300046: polySurface87
+    2300048: polySurface88a
+    2300050: polySurface89a
+    2300052: polySurface90a
+    2300054: polySurface91a
+    3300000: polySurface50a
+    3300002: polySurface52a
+    3300004: polySurface53a
+    3300006: polySurface55a
+    3300008: polySurface67a
+    3300010: polySurface68a
+    3300012: polySurface69a
+    3300014: polySurface70a
+    3300016: polySurface71a
+    3300018: polySurface72a
+    3300020: polySurface73a
+    3300022: polySurface75a
+    3300024: polySurface76a
+    3300026: polySurface77a
+    3300028: polySurface78a
+    3300030: polySurface79a
+    3300032: polySurface80a
+    3300034: polySurface81a
+    3300036: polySurface82a
+    3300038: polySurface83a
+    3300040: polySurface84
+    3300042: polySurface85
+    3300044: polySurface86
+    3300046: polySurface87
+    3300048: polySurface88a
+    3300050: polySurface89a
+    3300052: polySurface90a
+    3300054: polySurface91a
+    4300000: polySurface50a
+    4300002: polySurface52a
+    4300004: polySurface53a
+    4300006: polySurface55a
+    4300008: polySurface67a
+    4300010: polySurface68a
+    4300012: polySurface69a
+    4300014: polySurface70a
+    4300016: polySurface71a
+    4300018: polySurface72a
+    4300020: polySurface73a
+    4300022: polySurface75a
+    4300024: polySurface76a
+    4300026: polySurface77a
+    4300028: polySurface78a
+    4300030: polySurface79a
+    4300032: polySurface80a
+    4300034: polySurface81a
+    4300036: polySurface82a
+    4300038: polySurface84
+    4300040: polySurface85
+    4300042: polySurface87
+    4300044: polySurface86
+    4300046: polySurface83a
+    4300048: polySurface88a
+    4300050: polySurface89a
+    4300052: polySurface90a
+    4300054: polySurface91a
+    4300056: centipede_NEW2:Centipede
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: centipede_NEW2:Centipede
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
